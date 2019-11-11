@@ -1,0 +1,86 @@
+body{
+	font-family: 'Google Sans',arial,sans-serif;
+}
+.card_welcome{
+	width: 50%;
+	margin: 0px auto;
+	padding: 20px;
+	margin-top: 150px;
+	border: 1px solid #d9d9d9;
+	border-radius: 15px;
+}
+.logo img{
+	height: 50px;
+	width: auto;
+}
+.wname{
+	margin-top: 10px;
+	font-size:28px;
+	margin: 15px 0px; 
+}
+.right_logo{
+	float: right;
+}
+.right_logo img{
+	margin-top: 125px;
+	height: 300px;
+	width: auto;
+}
+.mdc-text-field{
+	width: 100%;
+	margin-top: 20px;
+}
+.accountSecure{
+	font-size: 16px;
+	color: black;
+	margin-top: 10px;
+}
+.emailname{
+	font-size: 16px;
+	margin-top: -5px;
+}
+.buttonNext{
+	background-color: #4285f4!important;
+	font-size: 16px;
+	float: right;
+	color: white!important;
+	padding: 10px 30px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+}
+.signininstead{
+	text-transform: initial;
+	color: #4285f4!important;
+	letter-spacing: 0;
+	font-size: 16px;
+	float: left;
+	color: #1a73e8!important;
+}
+.select_menu{
+	margin-top: 15px;
+}
+.fullwidth{
+	width: 100%;
+}
+.mdc-text-field .mdc-text-field__input {
+	caret-color:#1a73e8!important ;
+}
+.text{
+	margin: 0px auto;	
+	font-size: 14px;
+}
+.eng{
+	margin-left: 150px;
+}	
+.welcomeName{
+	font-size: 23px;
+}
+.gender{
+	width: 100%;
+}
+.whyWeask{
+	margin-top: 30px;
+	font-size: 15px;
+	color: gray;
+}

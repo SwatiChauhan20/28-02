@@ -1,0 +1,109 @@
+body{
+	font-family: 'Google Sans',arial,sans-serif;
+}
+.card_sign{
+	width: 50%;
+	margin: 0px auto;
+	padding: 20px;
+	margin-top: 150px;
+	border: 1px solid #d9d9d9;
+	border-radius: 15px;
+}
+.card_about{
+	width: 50%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #d9d9d9;
+	border-radius: 15px;
+}
+.logo img{
+	height: 60px;
+	width: auto;
+}
+.create span{
+	font-size: 35px;
+	color: black;
+}
+.right_logo{
+	float: right;
+}
+.right_logo img{
+	margin-top: 115px;
+	height: 300px;
+	width: auto;
+}
+.mdc-text-field{
+	width: 100%;
+	margin-top: 20px;
+}
+.pass {
+	padding-top: 15px;
+	padding-left: 0px; 
+}
+.pass span{
+	font-size: 16px;
+	color: black;
+}
+.pass_link{
+	padding-top: 10px;
+}
+.useEmail{
+	text-transform: initial;
+	letter-spacing: 0;
+	color: #4285f4!important;
+	font-size: 20px;
+	padding-left: 0px;
+}
+.icon_eye i{
+	margin-top: 30px;
+	font-size: 40px;
+	color: gray;
+}
+.des{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+}
+.char{
+	font-size: 18px;
+	margin-top: 10px;	
+}
+.sign_in button{
+	margin-top: 90px;
+	text-transform: initial;
+	color: #4285f4!important;
+	letter-spacing: 0;
+	font-size: 20px;
+	float: left;
+	margin-bottom: 100px;
+}
+.next .btn22{
+	margin-top: 90px;
+	background-color: #4285f4!important;
+	font-size: 20px;
+	float: right;
+	color: white!important;
+	padding: 10px 40px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+	margin-bottom: 80px;
+}
+.secondPart{
+	margin-top: 18px;
+}
+
+/*about us*/
+.pro{
+	margin: 0px auto;
+}
+.pro img{
+	border-radius: 100%;
+	border: 1px solid gray;
+	height: auto;
+	width: auto;
+	left: 100px;
+}
+.desc{
+	text-align: justify;
+}
